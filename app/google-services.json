@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "900125486325",
+    "project_id": "auth-diplomado",
+    "storage_bucket": "auth-diplomado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900125486325:android:c9176ffa742e44da9429bc",
+        "android_client_info": {
+          "package_name": "csanchez.diplomado.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900125486325-38davom0arl2vee3os65jcjb1ccevhpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "csanchez.diplomado.auth",
+            "certificate_hash": "ace8ac12d0cc0dd46f1dcd5ceb1a714d8831bf48"
+          }
+        },
+        {
+          "client_id": "900125486325-87jer51h8v3vonah92ql9fn3hnjgsuns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGPlsF6FV-nns5BqopSM4QDYdUEUa1Snw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900125486325-87jer51h8v3vonah92ql9fn3hnjgsuns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
